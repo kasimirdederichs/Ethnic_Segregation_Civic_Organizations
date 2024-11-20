@@ -2,7 +2,7 @@
 # Dederichs, Kasimir and Dingeman Wiertz (2024): "Brittle Bridges: Ethnic Segregation Across and Within Civic Organizations", European Sociological Review
 
 #  Set working directory / load libraries: ####
-setwd(dir = "yourpath/BrittleBridges_replication")
+setwd(dir = "yourpath/BrittleBridges_replication_github")
 
 #  libraries
 packages_vector <- c("foreign", "haven", "dplyr", "ggplot2", "tidyfast", "tidyr", "purrr", "plyr",
