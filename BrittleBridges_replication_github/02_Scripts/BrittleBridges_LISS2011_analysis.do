@@ -8,7 +8,7 @@ capture log close
 set seed 19960909
 
 *Set global working directory
-global workdir "/yourpath/BrittleBridges_replication" 
+global workdir "/yourpath/BrittleBridges_replication_github" 
 
 global data "${workdir}/01_Data/03_edit/2011_2012"
 global outputs "${workdir}/03_Outputs"
