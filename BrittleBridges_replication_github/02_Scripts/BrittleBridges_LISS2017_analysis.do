@@ -11,7 +11,7 @@ set scrollbufsize 800000 //allows to scroll back further in the outputs.
 // ssc install asdoc
 
 *Set global working directory
-global workdir "/yourpath/BrittleBridges_replication" 
+global workdir "/yourpath/BrittleBridges_replication_github" 
 
 global data "${workdir}/01_Data/03_edit/2017_2018"
 global predprob "${workdir}/01_Data/03_edit/2017_2018/predicted_probabilities"
